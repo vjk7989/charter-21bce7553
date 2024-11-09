@@ -1,0 +1,11 @@
+console.log("Balance:", ethers.utils.formatEther(balance), "SepoliaETH");
+const balance = await ethers.provider.getBalance("0xb7cCFdFa2D23Ec6999FA4af999A6C38CD23A5d5e");
+const { ethers } = require("hardhat");
+console.log(ethers.utils.formatEther(balance));
+const balance = await ethers.provider.getBalance("0xb7cCFdFa2D23Ec6999FA4af999A6C38CD23A5d5e");
+const { ethers } = require("hardhat");
+console.log(ethers.utils.formatEther(balance));
+const balance = await ethers.provider.getBalance("0xb7cCFdFa2D23Ec6999FA4af999A6C38CD23A5d5e");
+console.log(ethers.utils.formatEther(balance));
+cons
+const balance = await ethers.provider.getBalance("0xb7cCFdFa2D23Ec6999FA4af999A6C38CD23A5d5e");

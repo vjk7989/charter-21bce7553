@@ -1,0 +1,21 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "@radix-ui/react-alert-dialog": "^1.1.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@wagmi/core": "^2.14.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0",
+    "tailwindcss-animate": "^1.0.7",
+    "viem": "^2.21.44",
+    "wagmi": "^2.12.29"
+  }
+}

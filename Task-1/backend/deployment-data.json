@@ -1,0 +1,20 @@
+{
+  "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "merkleRoot": "0x9fe184bdde296ba47d7d5cfa4ac5076780d04b6c976ef929567cd10acb20f060",
+  "transactions": [
+    {
+      "transaction": "0x1234...",
+      "leaf": "0x0875e3a6bf99c55d320741be40802cf514e205443a71f69f54f9af9d542add31",
+      "proof": [
+        "0x70f957254c7ad2b5d291c12bfb02b0f2c8bc0690a48538ed6280fc757239683b"
+      ]
+    },
+    {
+      "transaction": "0x5678...",
+      "leaf": "0x70f957254c7ad2b5d291c12bfb02b0f2c8bc0690a48538ed6280fc757239683b",
+      "proof": [
+        "0x0875e3a6bf99c55d320741be40802cf514e205443a71f69f54f9af9d542add31"
+      ]
+    }
+  ]
+}
