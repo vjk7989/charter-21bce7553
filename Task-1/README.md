@@ -34,6 +34,7 @@ Installation Steps:
 3. Create .env file with:
    SEPOLIA_RPC_URL=your_sepolia_rpc_url
    PRIVATE_KEY=your_wallet_private_key
+4. npx hardhat run scripts/deploy.js    
 
 Getting Test ETH:
 - Sepolia Faucet (sepoliafaucet.com)
