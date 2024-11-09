@@ -208,11 +208,6 @@ python -m pytest tests/test_signature_verifier.py
    - Verify message encoding
    - Check signature scheme selection
 
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/signature-verification-system](https://github.com/yourusername/signature-verification-system)
 
 ## 🙏 Acknowledgments
 
