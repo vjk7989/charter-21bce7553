@@ -1,0 +1,2 @@
+streamlit
+ecdsa==0.18.0
